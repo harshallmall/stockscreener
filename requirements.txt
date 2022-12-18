@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+jinja2
+yfinance
+sqlalchemy
+psycopg2
+alembic
